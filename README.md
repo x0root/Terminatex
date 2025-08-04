@@ -1,5 +1,8 @@
 # Terminatex
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-x0root%2FTerminatex-blue?logo=github)](https://github.com/x0root/Terminatex)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/x0root/Terminatex/blob/main/LICENSE)
+
 Display beautiful, high-fidelity LaTeX expressions and web images directly in your terminal.
 
 terminatex is a Python utility that renders any LaTeX string or web image and displays it in modern terminals, providing a seamless way to visualize mathematical formulas and remote images without leaving your command-line environment.
@@ -90,4 +93,4 @@ Cleanup:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
