@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "terminatex"
+version = "1.1.0"
+authors = [
+  { name="Jose", email="bukitjose15@gmail.com" },
+]
+description = "Displays clear, colorful LaTeX expressions directly in the terminal."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Environment :: Console",
+    "Topic :: Scientific/Engineering :: Mathematics",
+    "Topic :: Terminals",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "matplotlib",
+    "Pillow",
+    "term-image"
+]
+[project.urls]
+"Homepage" = "https://github.com/x0root/Terminatex"
